@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! I'm Abdelrahman Khalawy</h1>
-<p>Welcome to my profile! 👨‍💻 I'm a Computer Science student from <img width="30" alt="image" src="https://github.com/user-attachments/assets/176b6c46-61b4-4cff-8ecf-5aa1357cf639" /> <b>Egypt</b>, currently entering my third year at university. Passionate about web development and focusing on the <b>Front-End</b> path 🚀.</p>
+
+<p>Welcome to my profile! 👨‍💻 I'm a Computer Science student from <img src="https://cdn-icons-png.flaticon.com/512/197/197610.png" width="13"/> <b>Egypt</b>, currently entering my third year at university. Passionate about web development and focusing on the <b>Front-End</b> path 🚀.</p>
 
 ---
 
