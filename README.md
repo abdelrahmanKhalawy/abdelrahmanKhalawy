@@ -27,6 +27,14 @@
 
 ---
 
+<h3>🗣️ Languages</h3>
+<ul>
+  <li><b>Arabic</b> — Native Speaker 🇪🇬</li>
+  <li><b>English</b> — Good Working Proficiency 🇬🇧</li>
+</ul>
+
+---
+
 <h3>📫 How to reach me:</h3>
 <p>
   <a href="https://github.com/abdelrahmanKhalawy" target="_blank">
