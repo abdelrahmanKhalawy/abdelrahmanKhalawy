@@ -40,9 +40,8 @@
   <a href="https://github.com/abdelrahmanKhalawy" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abdelrahman-khalawy-935ba0213" target="_blank">
-    <img alt="LinkedIn" src="https://www.linkedin.com/in/abdelrahman-khalawy/.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/abdelrahman-khalawy/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />  </a>
   <a href="mailto:abdelrahman.khalawy@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
