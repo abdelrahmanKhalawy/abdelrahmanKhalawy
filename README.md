@@ -110,7 +110,7 @@ plus a patient portal and an assistant chatbot.
 `ASP.NET Core 10` `React 19` `Vite` `Tailwind 4` `Docker`
 
 <a href="https://sehhatech.vercel.app"><img alt="Live demo" src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/abdelrahmanKhalawy/Deployment-test"><img alt="Source" src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/ItcProjects-R4/QAL4_SWD5_S1_PROJECT3"><img alt="Source" src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
